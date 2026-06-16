@@ -73,7 +73,7 @@ Relationships:
 
 ## ER Diagram
 
-![ER Diagram](er_diagram.png)
+![ER Diagram](screenshots/er_diagram.png)
 
 ---
 
